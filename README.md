@@ -1,6 +1,7 @@
 ## Olá, Eu sou o Kervin Espirito Santo!
 
 - 🔭 Eu sou técnico de elevadores.
+- 🌱 Atualmente estou trabalhando em um projeto chamado TáBarato, com apoio da Mais1Code e o Instituto NU
 - 🌱 Estou estudando programação web - HTML, CSS e JavaScript
 - 💬 Estou fazendo transição de carreira, onde meu objetivo é migrar da área de manutenção para Desenvolvimento Web
 
