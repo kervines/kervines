@@ -1,20 +1,18 @@
 ## Olá, Eu sou o Kervin Espirito Santo!
 
-- 🔭 Eu sou técnico de elevadores.
-- 🌱 Atualmente estou trabalhando em um projeto chamado TáBarato, com apoio da Mais1Code e o Instituto NU
-- 🌱 Estou estudando programação web - HTML, CSS e JavaScript
+- 🔭 Eu sou técnico de elevadores e futuro desenvolvedor web!
+- 🌱 Estou estudando programação web - HTML, CSS, JavaScript, React.js, Typescript
 - 💬 Estou fazendo transição de carreira, onde meu objetivo é migrar para a área Desenvolvimento Web
 
 <div align="center">
   <a href="https://github.com/kervines">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kervines&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kervines&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kerv-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Kerv-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Kerv-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Kerv-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Kerv-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kerv-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
