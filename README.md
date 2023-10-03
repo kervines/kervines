@@ -1,8 +1,9 @@
 ## Olá, Eu sou o Kervin Espirito Santo!
 
-- 🔭 Eu sou técnico de elevadores e futuro desenvolvedor web!
-- 🌱 Estou estudando programação web - HTML, CSS, JavaScript, React.js, Typescript
-- 💬 Estou fazendo transição de carreira, onde meu objetivo é migrar para a área Desenvolvimento Web
+- 👷🏻‍♂️ Eu sou técnico de elevadores e 👨🏻‍💻 futuro desenvolvedor web!
+- ⚡️ Estou estudando desenvolvimento Web e Interface de Usuário - HTML, CSS, JavaScript, React.js, Typescript, Node.js, Figma
+- 🔄 Em transição de carreira.
+- 🚀 Em busca de novos horizontes!
 
 <div align="center">
   <a href="https://github.com/kervines">
