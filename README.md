@@ -1,9 +1,9 @@
 ## Olá, Eu sou o Kervin Espirito Santo!
 
-- 👷🏻‍♂️ Eu sou técnico de elevadores e 👨🏻‍💻 futuro desenvolvedor web!
-- ⚡️ Estou estudando desenvolvimento Web e Interface de Usuário - HTML, CSS, JavaScript, React.js, Typescript, Node.js, Figma
-- 🔄 Em transição de carreira.
-- 🚀 Em busca de novos horizontes!
+- 👷🏻‍♂️ I'm an elevator technician and 👨🏻‍💻 future software developer!
+- ⚡️ Currently studying Web Development and User Interface - HTML, CSS, JavaScript, React.js, Typescript, Node.js, Figma.
+- 🔄 In the process of transitioning careers.
+- 🚀 Exploring new horizons!
 
 <div align="center">
   <a href="https://github.com/kervines">
