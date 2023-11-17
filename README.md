@@ -1,4 +1,4 @@
-## Olá, Eu sou o Kervin Espirito Santo!
+## Hello, I am Kervin Espirito Santo!
 
 - 👷🏻‍♂️ I'm an elevator technician and 👨🏻‍💻 future software developer!
 - ⚡️ Currently studying Web Development and User Interface - HTML, CSS, JavaScript, React.js, Typescript, Node.js, Figma.
